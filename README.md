@@ -1,2 +1,2 @@
-This project aims to develop a image segmentation model using U-NET, LSTM and other techniques 
+This project aims to develop an image segmentation model using U-NET, LSTM and other techniques 
 
